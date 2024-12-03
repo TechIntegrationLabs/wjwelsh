@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Animatronic Puppet",
+      "description": "A custom-built animatronic puppet featuring realistic movements and expressions, controlled through a sophisticated digital interface.",
+      "image": "/assets/images/IMG_0354-scaled-13.jpg",
+      "tags": ["Animatronics", "Hardware", "Interactive", "Arduino", "Robotics", "FX", "Haptics"],
+      "category": "animatronics",
+      "links": {
+        "demo": "https://wjwelsh.com/projects/puppet"
+      }
+    },
+    {
+      "id": "2",
+      "title": "VR Props Controller",
+      "description": "Interactive virtual reality props designed for immersive experiences, featuring haptic feedback and precise motion tracking.",
+      "image": "/assets/images/IMG_0466-scaled-12.jpg",
+      "tags": ["VR", "Hardware", "Interactive", "Software", "Unity", "Haptics", "Props"],
+      "category": "vr",
+      "links": {
+        "demo": "https://wjwelsh.com/projects/vrprops"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Interactive Kiosk System",
+      "description": "Custom-designed interactive kiosks for public spaces, featuring intuitive user interfaces and robust hardware integration.",
+      "image": "/assets/images/IMG_0778-scaled-12.jpg",
+      "tags": ["Kiosks", "Hardware", "Interactive", "Software", "React"],
+      "category": "kiosks",
+      "links": {
+        "demo": "https://wjwelsh.com/projects/kiosks"
+      }
+    },
+    {
+      "id": "4",
+      "title": "AI-Powered Motion Control",
+      "description": "Advanced motion control system utilizing artificial intelligence for natural movement patterns in animatronic figures.",
+      "image": "/assets/images/IMG_0981-scaled-13-e1644239407745.jpg",
+      "tags": ["AI", "Hardware", "Software", "Python", "TensorFlow", "FX"],
+      "category": "ai",
+      "links": {
+        "demo": "https://wjwelsh.com/projects/ai-motion"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Wireless DMX Controller",
+      "description": "Custom wireless DMX lighting control system with battery power for mobile applications.",
+      "image": "/assets/images/WirelessDMX4channelMilwaukeeBatt-12.png",
+      "tags": ["Hardware", "Interactive", "Electronics", "DMX", "FX"],
+      "category": "hardware",
+      "links": {
+        "demo": "https://wjwelsh.com/projects/wireless-dmx"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Show Control Software",
+      "description": "Comprehensive show control software for managing multiple animatronic systems and effects simultaneously.",
+      "image": "/assets/images/dynamics-props-patch-diagram-12.png",
+      "tags": ["Software", "Interactive", "Python", "Qt", "Props", "FX"],
+      "category": "software",
+      "links": {
+        "demo": "https://wjwelsh.com/projects/show-control"
+      }
+    }
+  ]
+}
